@@ -1,4 +1,4 @@
-import pygame # install in terminal with: pip install pygame
+import pygame # install in terminal pip install pygame
 import sys
 import random
 
