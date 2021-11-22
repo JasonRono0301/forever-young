@@ -15,8 +15,8 @@ for a in range (30,0,-1):
     print(a)
 
 #De derde opdracht van de tafel lab.
-for x in range (1,24):
-    if x <= 12:
+for x in range (1,13):
+    if x <= 13:
         print(int(x) ,'am')
     else:
         print(int(x),'pm')
